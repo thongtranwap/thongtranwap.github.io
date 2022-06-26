@@ -1,0 +1,58 @@
+h1 {
+  margin-left: 5%;
+}
+
+.intro {
+  margin-left: 5%;
+}
+
+.courses {
+  margin-left: 5.5%;
+}
+
+.course {
+  margin-left: 6%;
+}
+
+.m {
+  margin-left: 5.5%;
+}
+.movies {
+  margin-left: 3%;
+}
+
+.movie {
+  margin-left: 3%;
+}
+
+.vibes {
+  margin-left: 5.5%;
+}
+
+div.vibe img {
+  width: 100%;
+  height: auto;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 25%;
+  margin-left: 8%;
+}
+.neighbors {
+  padding-top: 32%;
+  margin-left: 5.5%;
+}
+
+.neighbor {
+  margin-left: 6%;
+}
+
+.link img {
+  margin-left: 3%;
+}
+
+dl {
+  margin-top: -5px;
+}
