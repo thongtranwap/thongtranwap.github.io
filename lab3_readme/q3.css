@@ -1,0 +1,15 @@
+h1 {
+  background-color: yellow;
+}
+
+#background {
+  background-color: gray;
+  overflow: hidden;
+}
+
+#content1, #content2 {
+  width: 100px;
+  float: right;
+  background-color: lightblue;
+  margin-left: 10px;
+}
